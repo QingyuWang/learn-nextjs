@@ -16,3 +16,5 @@ export default function Search({ placeholder }: { placeholder: string }) {
     </div>
   );
 }
+
+const name = '13';
